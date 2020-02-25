@@ -1,0 +1,8 @@
+﻿  Building 'Zero' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  pch.cpp
+  Zero.vcxproj -> D:\VisualStudioProject\Zero\x64\Debug\Zero.sys
+  Done Adding Additional Store
+  Successfully signed: D:\VisualStudioProject\Zero\x64\Debug\Zero.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
